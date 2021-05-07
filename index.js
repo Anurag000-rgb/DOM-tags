@@ -19,11 +19,3 @@ create = {};
                             })(tags[i]);
                         };
 })();
-
-
-
-const x = create.h1();
-x.innerHTML = 'Hello Anurag';
-
-
-document.body.appendChild(x);
